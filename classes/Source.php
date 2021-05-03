@@ -8,6 +8,7 @@
  * File (JSON, XML, CSV), 
  */
 
- abstract class Source {
+final class Source {
+
 	
- }
+}
